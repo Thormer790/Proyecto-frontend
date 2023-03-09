@@ -1,0 +1,144 @@
+* {
+   
+    box-sizing: border-box;
+    background-color: rgb(116, 115, 170);
+
+  }
+
+.presentacion
+  { width: 25%;
+    height: 100%;
+    float: left;
+}
+
+.contenido 
+  { width: 74%;
+    height: 25%;
+    float: right;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  height: 150px;
+  background: rgb(76, 89, 129);
+}
+
+img {
+  text-align: center;
+  max-width: auto;
+  max-height: 25%;
+  background-color:  rgb(47, 47, 95);
+}
+
+h1 {
+    
+  font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    padding: 30px ;
+    
+}
+
+h2 {
+    color: black;
+    background-color: transparent;
+    padding: 0;
+    border: 0;
+    text-align: center;
+}
+
+h4 {
+  color: black;
+  background-color: transparent;
+  padding: 0;
+  border: 0;
+}
+
+p {
+  color: black;
+  background-color: transparent;
+  padding: 0;
+  border: 20px;
+}
+
+table, td, th, tr{
+  background-color: rgb(168, 166, 180);
+  margin-top: 2%;
+  margin-left: 1%;
+  padding: 0px;
+  border: 0px;
+  text-align: center;
+}
+
+.lista {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.margen {
+  text-indent: 100px;
+  
+}
+
+.cfondo {
+  background-color: rgb(255, 255, 255);
+  margin-left: 28%;
+  margin-right: 2%;
+}
+
+.transparente {
+  color:  transparent;
+}
+
+.aladerechap {
+  text-align: right;
+}
+
+.botoncentrado {
+  text-align: center;
+}
+
+.redondeada {
+  border-radius: 80%;
+  border:2px solid #000000;
+}
+
+.botones {
+  width: 74%;
+  text-align: center;
+  border: transparent;
+  padding: 0px;
+  
+}
+
+
+.boxi {
+  width: 100px;
+  border: transparent;
+  float: left;
+}
+
+.width {
+  width: 100%;
+  padding: 0;
+  border-radius: 60px;
+  border: transparent;
+  background-color: white;
+}
+
+.boxd {
+  width: 100px;
+  float: right;
+}
+
+.boxc {
+  float: right;
+  width: 62.5%;
+  background-color: transparent;
+}
