@@ -1,0 +1,46 @@
+* {
+   
+    box-sizing: border-box;
+    background-color: rgb(116, 115, 170);
+
+  }
+  
+body {
+    margin: 0;
+  }
+
+form {
+    margin-top: 20%;
+    text-align: center;
+
+}
+
+.centrado {
+    text-align: center;
+}
+.boxi {
+    margin-top: 20%;
+    width: 100px;
+    border: transparent;
+    float: left;
+  }
+  
+.width {
+    width: 100%;
+    padding: 0;
+    border-radius: 60px;
+    border: transparent;
+    background-color: white;
+  }
+
+label{
+    color: darkblue;
+}
+
+input {
+    background-color: white;
+}
+
+.blanco {
+    background-color: white;
+}

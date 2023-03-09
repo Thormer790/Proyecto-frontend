@@ -11,7 +11,7 @@ document.getElementById("boton4").onclick = function() {
     location.href="Pag1.html"
 }
 document.getElementById("boton5").onclick = function() {
-    location.href="https://www.linkedin.com/"
+    location.href="Formulario.html"
 }
 
 
