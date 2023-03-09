@@ -1,0 +1,36 @@
+* {
+   
+    box-sizing: border-box;
+    background-color: rgb(116, 115, 170);
+
+  }
+
+body {
+    margin: 0;
+  }
+
+h1 {
+    margin-top: 20%;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    font-size: xx-large;
+      
+  }
+
+.boxc {
+    float: right;
+    width: 55%;
+    background-color: transparent;
+  }
+
+.width {
+    width: 100%;
+    padding: 0;
+    border-radius: 70px;
+    border: transparent;
+    background-color: white;
+  }
+
+  
