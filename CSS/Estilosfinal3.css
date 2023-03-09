@@ -44,3 +44,13 @@ input {
 .blanco {
     background-color: white;
 }
+
+h1, h2 {
+  margin-top: 1%;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  font-size: xx-large;
+    
+}

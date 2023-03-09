@@ -4,6 +4,6 @@ document.getElementById("boton1").onclick = function() {
 
 document.getElementById("aceptar").onclick = function () {
     console.log("Aceptaron");
-    document.getElementById("gracias").innerHTML = "MUCHAS GRACIAS POR SU TIEMPO"  
+    document.getElementById("gracias").style.display = "block";
 }
 
